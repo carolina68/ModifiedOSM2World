@@ -6,7 +6,7 @@
 
 
 
-## ２．平台应用环境及依赖
+## ２．平台环境及依赖
 
 - OS: Ubuntu 16.04 (Xenial)及以上版本
 - RＯS: Kinetic Kame
