@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-17702' action='modify' visible='true' lat='48.60204391433' lon='13.49764573408' />
+  <node id='-17703' action='modify' visible='true' lat='48.60142056206' lon='13.51512067903' />
+  <node id='-17705' action='modify' visible='true' lat='48.59187751705' lon='13.51475812831' />
+  <node id='-17707' action='modify' visible='true' lat='48.59300455342' lon='13.49499911379' />
+  <node id='-17713' action='modify' visible='true' lat='48.59887884337' lon='13.52400967336' />
+  <node id='-17714' action='modify' visible='true' lat='48.59623396502' lon='13.5241634906' />
+  <node id='-17716' action='modify' visible='true' lat='48.59626787459' lon='13.52867546314' />
+  <node id='-17718' action='modify' visible='true' lat='48.59887884337' lon='13.5285216459' />
+  <node id='-17722' action='modify' visible='true' lat='48.60945697204' lon='13.52411221819' />
+  <node id='-17723' action='modify' visible='true' lat='48.60803312223' lon='13.52262531814' />
+  <node id='-17725' action='modify' visible='true' lat='48.60643971889' lon='13.52303549747' />
+  <node id='-17727' action='modify' visible='true' lat='48.60565994999' lon='13.52641947687' />
+  <node id='-17729' action='modify' visible='true' lat='48.60701606207' lon='13.52657329412' />
+  <node id='-17731' action='modify' visible='true' lat='48.60745679065' lon='13.52467621475' />
+  <node id='-17733' action='modify' visible='true' lat='48.60860944723' lon='13.52754747001' />
+  <node id='-17735' action='modify' visible='true' lat='48.60935526982' lon='13.52641947687' />
+  <node id='-17742' action='modify' visible='true' lat='48.60287980639' lon='13.53267471153' />
+  <node id='-17743' action='modify' visible='true' lat='48.60555824012' lon='13.53139290115' />
+  <node id='-17745' action='modify' visible='true' lat='48.60603288444' lon='13.53421288399' />
+  <node id='-17747' action='modify' visible='true' lat='48.60338838068' lon='13.53436670124' />
+  <way id='-17704' action='modify' visible='true'>
+    <nd ref='-17702' />
+    <nd ref='-17703' />
+    <nd ref='-17705' />
+    <nd ref='-17707' />
+    <nd ref='-17702' />
+    <tag k='landuse' v='forest' />
+    <tag k='name' v='forest2' />
+    <tag k='source' v='geoimages.at' />
+  </way>
+  <way id='-17715' action='modify' visible='true'>
+    <nd ref='-17713' />
+    <nd ref='-17714' />
+    <nd ref='-17716' />
+    <nd ref='-17718' />
+    <nd ref='-17713' />
+  </way>
+  <way id='-17724' action='modify' visible='true'>
+    <nd ref='-17722' />
+    <nd ref='-17723' />
+    <nd ref='-17725' />
+    <nd ref='-17727' />
+    <nd ref='-17729' />
+    <nd ref='-17731' />
+    <nd ref='-17733' />
+    <nd ref='-17735' />
+    <nd ref='-17722' />
+    <tag k='name' v='zoo' />
+    <tag k='tourism' v='zoo' />
+  </way>
+  <way id='-17744' action='modify' visible='true'>
+    <nd ref='-17742' />
+    <nd ref='-17743' />
+    <nd ref='-17745' />
+    <nd ref='-17747' />
+    <nd ref='-17742' />
+  </way>
+  <relation id='-17699' action='modify' visible='true'>
+    <tag k='landuse' v='forest' />
+    <tag k='name' v='forest1' />
+  </relation>
+</osm>
